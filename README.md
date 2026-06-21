@@ -167,7 +167,7 @@ For detailed technical information:
 
 ---
 
-## Quick Start (Local Development)
+## Quick Start (Local Development Setup)
 
 ### Prerequisites
 - Python 3.11+
